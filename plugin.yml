@@ -1,10 +1,10 @@
-name: InfoUI
+name: RegelnUI
 author: Ameer4Real
 main: Ameer4Real\InfoUI
 version: 0.1
-description: sehe server infos in UI Form!
+description: sehe server regeln in UI Form!
 api: [3.0.0]
 commands:
-    info:
+    regeln:
         default: true
-        description: §4InfoUI
+        description: §4RegelnUI
