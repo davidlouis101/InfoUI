@@ -1,4 +1,4 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/AmeerReal/InfoUI
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/davidlouis101/RegelnUI
 branches:
 - master
 projects:
