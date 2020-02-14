@@ -23,7 +23,7 @@ class InfoUI extends PluginBase implements Listener {
 	
 	public function onCommand(CommandSender $sender, Command $cmd, string $label,array $args): bool{
 		switch($cmd->getName()){
-			case "regeln":
+			case "Kanal":
 			if(!$sender instanceof Player){
 			$sender->sendMessage("You can only use this command In-Game");
 			return false;
