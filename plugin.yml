@@ -5,6 +5,6 @@ version: 0.1
 description: sehe server regeln in UI Form!
 api: [3.0.0]
 commands:
-    regeln:
+    Kanal:
         default: true
-        description: §4RegelnUI
+        description: §4Kanal Auf YT
